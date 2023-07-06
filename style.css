@@ -1,5 +1,5 @@
 body{
-    font-family: Courier, monospace;
+/*     font-family: Courier, monospace; */
     background-color: #f2f2f2;
 }
 
@@ -78,4 +78,14 @@ h1{
 
 .btn-danger:hover{
     background-color: #c82333;
+}
+
+.total-expenses{
+    margin-top: 20px;
+    text-align: right;
+}
+
+.total-expenses span{
+    font-weight: bold;
+    color: #007bff;
 }
